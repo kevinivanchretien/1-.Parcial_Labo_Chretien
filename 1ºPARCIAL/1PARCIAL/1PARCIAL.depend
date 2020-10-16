@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1602800213 source:c:\users\kevin\desktop\parcial labo\1-.parcial_labo_chretien-main\1ºparcial\1parcial\electrodomestico.c
+
+1602807941 source:c:\users\kevin\desktop\parcial labo\1-.parcial_labo_chretien-main\1ºparcial\1parcial\marcas.c
+	"Marcas.h"
+
+1602801734 c:\users\kevin\desktop\parcial labo\1-.parcial_labo_chretien-main\1ºparcial\1parcial\marcas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1602808842 source:c:\users\kevin\desktop\parcial labo\1-.parcial_labo_chretien-main\1ºparcial\1parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	"Marcas.h"
+	"electrodomestico.h"
+
+1602808766 c:\users\kevin\desktop\parcial labo\1-.parcial_labo_chretien-main\1ºparcial\1parcial\electrodomestico.h
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	"Marcas.h"
+
